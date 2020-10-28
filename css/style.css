@@ -1,0 +1,44 @@
+*{
+    font-style:c;
+}
+
+#contener{
+
+    width: 65%;
+    margin: 0 auto;
+}
+
+h1{
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+.centre{
+    text-align: center;
+}
+
+.droite{
+    float: right;
+}
+
+h2, h3, h4, h5{
+    border-bottom: 2px solid black;
+}
+
+.gauche{
+  
+
+    float: left;
+}
+
+
+footer{
+    text-align: center;
+}
+
+p{
+    display: inline;
+}
+section{
+   
+}
