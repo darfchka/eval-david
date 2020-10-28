@@ -1,10 +1,13 @@
 *{
     font-style:c;
 }
+body{
+    width: 4000px;
+}
 
 #contener{
-
-    width: 65%;
+    background-color: rgb(255, 247, 247);
+    width:2000px;
     margin: 0 auto;
 }
 
@@ -15,10 +18,12 @@ h1{
 }
 .centre{
     text-align: center;
+    height: 100px;
 }
 
 .droite{
     float: right;
+    
 }
 
 h2, h3, h4, h5{
@@ -26,19 +31,21 @@ h2, h3, h4, h5{
 }
 
 .gauche{
-  
-
     float: left;
 }
 
 
 footer{
     text-align: center;
+
 }
 
 p{
     display: inline;
+    border: 0;
 }
 section{
-   
+    height: 700px;
+  
 }
+
